@@ -1,0 +1,11 @@
+/*
+Copyright © 2024 Attila Ambrus, Kvak Barnabás, Litavecz Máté, Sárközi Gergő, Ördög Csaba  attila.ambrus0022@gmail.com
+
+*/
+package main
+
+import "ruba/cmd"
+
+func main() {
+	cmd.Execute()
+}
